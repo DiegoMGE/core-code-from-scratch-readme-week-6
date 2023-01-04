@@ -17,11 +17,11 @@
 - [Parameters](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#parameters)
 
 ## Thursday Challenges
-- [Strings]()
-- [String: length]()
-- [String: toUpperCase()]()
-- [String: charAt()]()
-- [String: indexOf()]()
+- [Strings](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#strings)
+- [String: length](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#string-length)
+- [String: toUpperCase()](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#string-touppercase)
+- [String: charAt()](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#string-charat)
+- [String: indexOf()](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#string-indexof)
 
 ### Variables
 ```javascript
