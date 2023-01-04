@@ -10,6 +10,11 @@
 - [Assign Variables](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#assign-variables)
 
 ## Wednesday Challenges
+- [Functions](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#functions)
+- [Multiple Functions](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#multiple-functions)
+- [Function Calls](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#function-calls)
+- [What is x? (function version)](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#what-is-x-function-version)
+- [Parameters](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#parameters)
 
 ### Variables
 ```javascript
