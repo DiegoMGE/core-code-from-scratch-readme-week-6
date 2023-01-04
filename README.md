@@ -16,6 +16,13 @@
 - [What is x? (function version)](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#what-is-x-function-version)
 - [Parameters](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#parameters)
 
+## Thursday Challenges
+- [Strings]()
+- [String: length]()
+- [String: toUpperCase()]()
+- [String: charAt()]()
+- [String: indexOf()]()
+
 ### Variables
 ```javascript
 let firstname = 'Lata';
@@ -81,4 +88,50 @@ function echo(string) {
 }
 echo('Greta');
 echo('CO2');
+```
+
+### Strings
+```javascript
+function greet(name) {
+    return 'Hello ' + name + '!'
+}
+greet('Ada');
+greet('Grace');
+```
+
+### String: length
+```javascript
+function length(string) {
+    return string.length
+}
+length('sun');
+```
+
+### String: toUpperCase()
+```javascript
+function toCase(string) {
+    return string.toLowerCase() + '-' + string.toUpperCase();
+}
+
+toCase('Mthatha');
+```
+
+### String: charAt()
+```javascript
+function shortcut(first, second) {
+    return first.charAt(0) + second.charAt(0);
+}
+shortcut('Amensty', 'International');
+```
+
+### String: indexOf()
+```javascript
+function indexOfIgnoreCase(firstString, secondString) {
+    let first = firstString.toLowerCase();
+    let second = first.indexOf(secondString.toLowerCase());
+
+    return second;
+}
+
+console.log(indexOfIgnoreCase('bit', 'it'))
 ```
