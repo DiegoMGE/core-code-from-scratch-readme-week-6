@@ -3,11 +3,11 @@
 ## Monday Challenges
 
 ## Tuesday Challenges
-- [Variables]()
-- [What is X?]()
-- [Several Variables]()
-- [Reassignment]()
-- [Assign Variables]()
+- [Variables](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#variables)
+- [What is X?](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#what-is-x)
+- [Several Variables](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#several-variables)
+- [Reassignment](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#reassignment)
+- [Assign Variables](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6/blob/main/README.md#assign-variables)
 
 ### Variables
 ```javascript
